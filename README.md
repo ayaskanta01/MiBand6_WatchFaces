@@ -9,7 +9,9 @@
   
 ## Faces
 - Colors on Black
-<img src="https://github.com/ayaskanta01/MiBand6_WatchFaces/blob/main/colors%20on%20black%20watchface.png" alt="" style="width:75%;text-align:center">  
+<img src="https://github.com/ayaskanta01/MiBand6_WatchFaces/blob/main/colors%20on%20black%20watchface.png" alt="Colors on Black" style="width:50%;align:center">  
+- Material You Pastel
+<img src="https://github.com/ayaskanta01/MiBand6_WatchFaces/blob/main/material%20you%20watchface.png" alt="Material You Pastel" style="width:50%;align:center"> 
 
 
 
