@@ -8,7 +8,7 @@
 - Then go to Band display settings to change the Watch Face .
   
 ## Other Download Links
-- [Google Drive](http://example.com/ "Google Drive")
+- [Google Drive](https://bit.ly/3nDX2lv "Google Drive")
 - [Telegram](http://example.com/ "Telegram")
 - [Mega Sync](http://example.com/ "Mega Sync")
 
