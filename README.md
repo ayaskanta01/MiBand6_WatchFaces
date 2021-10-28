@@ -9,8 +9,8 @@
   
 ## Other Download Links
 - [Google Drive](https://bit.ly/3nDX2lv "Google Drive")
-- [Telegram](http://example.com/ "Telegram")
-- [Mega Sync](http://example.com/ "Mega Sync")
+- [Telegram](https://bit.ly/3bhIXoj "Telegram")
+- [Mega Sync](https://bit.ly/2XYxTte "Mega Sync")
 
 ## Faces
 - Colors on Black  
