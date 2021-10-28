@@ -14,9 +14,11 @@
 
 ## Faces
 - Colors on Black  
+
 ![colors on black](https://github.com/ayaskanta01/MiBand6_WatchFaces/blob/main/colors%20on%20black%20watchface.png)
 
 - Material You Pastel  
+
 ![material you patel](https://github.com/ayaskanta01/MiBand6_WatchFaces/blob/main/material%20you%20watchface.png)
 
 ## Special Thanks to
