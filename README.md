@@ -9,6 +9,6 @@
   
 ## Faces
 - Colors on Black
-![Image]("colors on black watchface.png")
+![Image](https://github.com/ayaskanta01/MiBand6_WatchFaces/blob/main/colors%20on%20black%20watchface.png)
 
 
