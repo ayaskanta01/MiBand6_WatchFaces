@@ -13,16 +13,13 @@
 - [Mega Sync](http://example.com/ "Mega Sync")
 
 ## Faces
-- Colors on Black
+- Colors on Black  
 
 ![colors on black](https://github.com/ayaskanta01/MiBand6_WatchFaces/blob/main/colors%20on%20black%20watchface.png)
 
 <img src="https://github.com/ayaskanta01/MiBand6_WatchFaces/blob/main/colors%20on%20black%20watchface.png" alt="Colors on Black">
 
 - Material You Pastel
-
-![material you patel](https://github.com/ayaskanta01/MiBand6_WatchFaces/blob/main/material%20you%20watchface.png)
-
 <img src="https://github.com/ayaskanta01/MiBand6_WatchFaces/blob/main/material%20you%20watchface.png" alt="Material You Pastel"> 
 
 
