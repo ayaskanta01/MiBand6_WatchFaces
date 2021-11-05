@@ -15,7 +15,7 @@
 ## Faces
 - Colors on Black  
 
-![colors on black](https://imgur.com/a/FDxE4ME.png)
+![colors on black](https://i.imgur.com/f6rhDua.png)
 
 - Material You Pastel  
 
