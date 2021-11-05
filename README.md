@@ -15,7 +15,7 @@
 ## Faces
 - Colors on Black  
 
-![colors on black](https://drive.google.com/file/d/19zNzAVEfqnyLOBUAW-GUvvWUhcgUfhWM/view?usp=sharing)
+![colors on black](colors on black watchfaces.png)
 
 - Material You Pastel  
 
