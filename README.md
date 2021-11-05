@@ -24,7 +24,9 @@
 - Eternals  
 
 ![eternals](https://github.com/ayaskanta01/MiBand6_WatchFaces/blob/main/eternals%20watchface.png)
- 
+
+## Coming Soon
+- Hogwarts Theme
 
 
 ## Special Thanks to
