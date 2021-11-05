@@ -21,9 +21,10 @@
 
 ![material you patel](https://github.com/ayaskanta01/MiBand6_WatchFaces/blob/main/material%20you%20watchface.png)
 
-## Coming Soon
-- Eternals Theme 
-- HogWarts Theme 
+- Eternals  
+
+![eternals](https://github.com/ayaskanta01/MiBand6_WatchFaces/blob/main/eternals%20watchface.png)
+ 
 
 
 ## Special Thanks to
