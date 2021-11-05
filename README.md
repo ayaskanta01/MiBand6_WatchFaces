@@ -15,15 +15,15 @@
 ## Faces
 - Colors on Black  
 
-![colors on black](https://github.com/ayaskanta01/MiBand6_WatchFaces/blob/main/colors%20on%20black%20watchface.png)
+![colors on black](https://drive.google.com/file/d/19zNzAVEfqnyLOBUAW-GUvvWUhcgUfhWM/view?usp=sharing)
 
 - Material You Pastel  
 
-![material you patel](https://github.com/ayaskanta01/MiBand6_WatchFaces/blob/main/material%20you%20watchface.png)
+![material you patel](https://drive.google.com/file/d/19ziUY24tPI5YqapCUhqIEAJplqgt3OTn/view?usp=sharing)
 
 - Eternals  
 
-![eternals](https://github.com/ayaskanta01/MiBand6_WatchFaces/blob/main/eternals%20watchface.png)
+![eternals](https://drive.google.com/file/d/1G3Jxo4LKQa6pdpboxLP1CY0iX10ACDDq/view?usp=sharing)
 
 ## Coming Soon
 - Hogwarts Theme
