@@ -28,9 +28,11 @@
 ## Coming Soon
 - Hogwarts Theme
 
+## Link to Donate
+- [PayPal](https://bit.ly/3BI13ud "PayPal")
+
 
 ## Special Thanks to
-
-- https://github.com/Johnson070
+- [Johnson070](https://github.com/Johnson070)
 
 
