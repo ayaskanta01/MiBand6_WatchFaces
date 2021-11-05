@@ -23,7 +23,7 @@
 
 - Eternals  
 
-![eternals](https://drive.google.com/file/d/1G3Jxo4LKQa6pdpboxLP1CY0iX10ACDDq/view?usp=sharing)
+![eternals](https://i.imgur.com/5Zl8dRW.png)
 
 ## Coming Soon
 - Hogwarts Theme
