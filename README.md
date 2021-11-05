@@ -15,11 +15,11 @@
 ## Faces
 - Colors on Black  
 
-![colors on black](https://imgur.com/a/FDxE4ME)
+![colors on black](https://imgur.com/a/FDxE4ME.png)
 
 - Material You Pastel  
 
-![material you patel](https://drive.google.com/file/d/19ziUY24tPI5YqapCUhqIEAJplqgt3OTn/view?usp=sharing)
+![material you patel](https://drive.google.com/file/d/19ziUY24tPI5YqapCUhqIEAJplqgt3OTn/view?usp=sharing.png)
 
 - Eternals  
 
