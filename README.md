@@ -17,9 +17,9 @@
 
 ![colors on black](https://i.imgur.com/f6rhDua.png)
 
-- Material You Pastel  
+- Material You 
 
-![material you patel](https://drive.google.com/file/d/19ziUY24tPI5YqapCUhqIEAJplqgt3OTn/view?usp=sharing.png)
+![material you](https://i.imgur.com/cfmRBVT.png)
 
 - Eternals  
 
